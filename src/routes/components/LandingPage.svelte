@@ -24,11 +24,11 @@
 		z-index: -1;
 	}
 	.img::after {
-		background-image: url('home/landingPage/left.png');
+		background-image: url('/home/landingPage/left.png');
 		left: 0;
 	}
 	.img::before {
-		background-image: url('home/landingPage/right.png');
+		background-image: url('/home/landingPage/right.png');
 		right: 0;
 	}
 	.lens {
@@ -38,7 +38,7 @@
 		bottom: -3vw;
 		right: 25%;
 		background-size: cover;
-		background-image: url('home/landingPage/lens.png');
+		background-image: url('/home/landingPage/lens.png');
 		background-repeat: no-repeat;
 	}
 </style>
