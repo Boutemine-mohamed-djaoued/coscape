@@ -24,7 +24,7 @@
 
 <style>
 	section {
-		background-image: url('home/feedBack/bg.png');
+		background-image: url('/home/feedBack/bg.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
