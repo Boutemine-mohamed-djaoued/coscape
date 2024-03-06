@@ -82,7 +82,7 @@
 
 <style>
 	section {
-		background-image: url('home/pricing/bg.png');
+		background-image: url('/home/pricing/bg.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
