@@ -129,7 +129,7 @@
 
 <style>
 	section {
-		background-image: url('home/comments/background.png');
+		background-image: url('/home/comments/background.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position-y: -20rem;
